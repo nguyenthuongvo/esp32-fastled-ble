@@ -1,6 +1,6 @@
 # ESP32 FastLED BLE (Bluetooth Low Energy)
 
-Web BLE control app: https://jasoncoon.github.io/esp32-fastled-ble/
+Web BLE control app: https://nguyenthuongvo.github.io/esp32-fastled-ble/
 
 \*\* Currently only supported in Chrome on MacOS, Windows, and Linux
 
